@@ -1,0 +1,16 @@
+Leather Armor, 1
+Iron Armor, 3
+Chainmail, 5
+Plate Armor, 8
+Cloth Robe, 0  
+Padded Armor, 2  
+Scale Armor, 4  
+Bone Armor, 6  
+Knight’s Armor, 7  
+Enchanted Robe, 5  
+Dwarven Plate, 9  
+Shadow Cloak, 6  
+Dragon Scale Armor, 10  
+Celestial Armor, 12  
+Demonic Carapace, 11  
+Titan’s Guard, 15  

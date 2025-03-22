@@ -1,0 +1,25 @@
+Sword,10
+Greatsword,15
+Dagger,7
+Bow,12
+Magic Staff,14
+Axe, 12  
+Warhammer, 16  
+Spear, 13  
+Mace, 14  
+Crossbow, 15  
+Scythe, 17  
+Katana, 14  
+Flail, 15  
+Rapier, 11  
+Halberd, 18  
+Trident, 13  
+Throwing Knives, 9  
+Boomerang, 8  
+Whip, 10  
+Fire Wand, 16  
+Ice Staff, 15  
+Lightning Rod, 17  
+Demon Blade, 20  
+Dragon Slayer, 22  
+Celestial Bow, 19  
